@@ -22,6 +22,7 @@ A basic load balancer monitor written in python. It has basic functions such as:
     python3 --version
     ```
     If this command fails, update your system to get the latest packages and then install it via your package manager:
+
     **Debian/Ubuntu**
     
     ```
