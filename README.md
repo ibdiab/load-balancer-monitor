@@ -26,12 +26,12 @@ A basic load balancer monitor written in python. It has basic functions such as:
     **Debian/Ubuntu**
     
     ```
-    sudo apt update; sudo apt upgrade; sudo apt install python3
+    sudo apt update && sudo apt upgrade && sudo apt install python3
     ```
     **Fedora**
     
     ```
-    sudo dnf upgrade; sudo dnf install python3
+    sudo dnf upgrade && sudo dnf install python3
     ```
     **Arch**
     
@@ -74,11 +74,7 @@ On **MacOS/Linux**, open terminal and navigate to the directory you installed it
 From there, give the script executable permissions and then run it with
 
     ```
-    chmod +x load_balancer_monitor.py
-    ```
-   
-    ```
-    ./load_balancer_monitor.py
+    chmod +x load_balancer_monitor.py && ./load_balancer_monitor.py
     ```
 # EDITING THE IPs
 
