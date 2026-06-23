@@ -68,9 +68,8 @@ On **MacOS/Linux**, open terminal and navigate to the directory you installed it
     ```
 From there, give the script executable permissions and then run it with
 
-    ```
     chmod +x load_balancer_monitor.py && ./load_balancer_monitor.py
-    ```
+    
 # EDITING THE IPs
 
 - ```
