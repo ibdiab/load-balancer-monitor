@@ -7,27 +7,33 @@ A load balancer monitor written in python. It has basic functions such as:
 # INSTALLATION INSTRUCTIONS
 1. If you don't have python installed, install it here: https://www.python.org/
   - For MacOS users, check if you have python installed with
+    
     ```
     python3 --version
     ```
     If this command fails or prompts you to install dev tools, install it via homebrew
+
     ```
     brew install python3
     ```
   - For Linux users, check if you have python installed with
+    
     ```
     python3 --version
     ```
     If this command fails, update your system to get the latest packages and then install it via your package manager:
     **Debian/Ubuntu**
+    
     ```
     sudo apt update; sudo apt upgrade; sudo apt install python3
     ```
     **Fedora**
+    
     ```
     sudo dnf upgrade; sudo dnf install python3
     ```
     **Arch**
+    
     ```
     sudo pacman -Syu python
     ```
@@ -39,11 +45,13 @@ A load balancer monitor written in python. It has basic functions such as:
 3. You may then open the file in your preferred IDE or follow the instructions below to run it via terminal depending on your OS:
    
 4. *On **Windows**, open command prompt or PowerShell and navigate to the directory you installed this. (ex.
+   
     ```
     cd C:\Users\user\Downloads
     ```
     )
 Run the script with
+
     ```
     py load_balancer_monitor.py
     ```
@@ -53,14 +61,17 @@ Run the script with
     ```
 On **MacOS/Linux**, open terminal and navigate to the directory you installed it:
   - MacOS: ex.
+    
     ```
     cd /Users/user/Downloads
     ```
   - Linux: ex.
+    
     ```
     cd /home/user/Downloads
     ```
 From there, give the script executable permissions with
+
     ```
     chmod +x load_balancer_monitor.py
     ```
@@ -69,6 +80,7 @@ From there, give the script executable permissions with
     ./load_balancer_monitor.py
     ```
 # EDITING THE IPs
+
 - ```
   node = Node("192.168.20.60")
   ```
