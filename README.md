@@ -53,11 +53,10 @@ A basic load balancer monitor written in python. It has basic functions such as:
     
 Run the script with either of the following commands:
 
-    ```
     py load_balancer_monitor.py
     
     python load_balancer_monitor.py
-    ```
+    
 On **MacOS/Linux**, open terminal and navigate to the directory you installed it:
   - MacOS: ex.
     
