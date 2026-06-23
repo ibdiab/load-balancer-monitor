@@ -71,12 +71,12 @@ On **MacOS/Linux**, open terminal and navigate to the directory you installed it
     ```
     cd /home/user/Downloads
     ```
-From there, give the script executable permissions with
+From there, give the script executable permissions and then run it with
 
     ```
     chmod +x load_balancer_monitor.py
     ```
-    , then run it with
+   
     ```
     ./load_balancer_monitor.py
     ```
