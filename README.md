@@ -3,7 +3,7 @@ A load balancer monitor written in python. It has basic functions such as:
   - Declaring random IPs for testing the node class
   - Declaring the master's IP
   - Adding/removing slave IPs for testing
-  - 
+    
 # INSTALLATION INSTRUCTIONS
 1. If you don't have python installed, install it here: https://www.python.org/
   - For MacOS users, check if you have python installed with
