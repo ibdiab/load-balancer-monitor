@@ -1,4 +1,4 @@
-A load balancer monitor written in python. It has basic functions such as:
+A basic load balancer monitor written in python. It has basic functions such as:
   - Declaring the node's IP for testing
   - Declaring random IPs for testing the node class
   - Declaring the master's IP
