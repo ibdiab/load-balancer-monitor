@@ -45,12 +45,12 @@ A basic load balancer monitor written in python. It has basic functions such as:
    
 3. You may then open the file in your preferred IDE or follow the instructions below to run it via terminal depending on your OS:
    
-4. On **Windows**, open command prompt or PowerShell and navigate to the directory you installed this. (ex.
+4. On **Windows**, open command prompt or PowerShell and navigate to the directory you installed this. For example:
    
     ```
     cd C:\Users\user\Downloads
     ```
-    )
+    
 Run the script with
 
     ```
